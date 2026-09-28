@@ -1,0 +1,23 @@
+[
+    {
+        "slug": "technology-news",
+        "title": "Новости технологий",
+        "description": "Новые разработки и события в мире современных технологий.",
+        "preview_image": "/images/news/technology-preview.svg",
+        "full_image": "/images/news/technology-full.svg"
+    },
+    {
+        "slug": "science-news",
+        "title": "Научные открытия",
+        "description": "Новости науки, исследований и современных открытий.",
+        "preview_image": "/images/news/science-preview.svg",
+        "full_image": "/images/news/science-full.svg"
+    },
+    {
+        "slug": "education-news",
+        "title": "Новости образования",
+        "description": "Изменения и события в сфере образования.",
+        "preview_image": "/images/news/education-preview.svg",
+        "full_image": "/images/news/education-full.svg"
+    }
+]
